@@ -6,7 +6,7 @@ function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
 
     return(
-        <nav className="relative flex items-center justify-between px-8 py-5 bg-blue-950 text-white">
+        <nav className="flex items-center justify-between px-8 py-5 bg-slate-950/90 backdrop-blur-xs text-white sticky top-0 z-50 w-full">
             
             <a href="#home" className="group cursor-default">
 

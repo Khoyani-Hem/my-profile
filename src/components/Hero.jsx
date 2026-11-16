@@ -3,7 +3,7 @@ import { ChessKnight } from "lucide-react";
 
 function Hero() {
     return(
-        <section id="home" className="flex-1 bg-zinc-950 flex items-center px-8 md:px-20">
+        <section id="home" className="min-h-[calc(100vh-80px)] flex-1 bg-[#0B1120] flex items-center px-8 md:px-20">
 
             <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 items-center gap-12">
 
