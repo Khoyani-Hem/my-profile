@@ -39,7 +39,7 @@ function Navbar() {
 
                 <a href="#home" className="transition-colors duration-300 ease-in-out hover:text-amber-400">Home</a>
                 <a href="#about" className="transition-colors duration-300 ease-in-out hover:text-amber-400">About</a>
-                <a href="#project" className="transition-colors duration-300 ease-in-out hover:text-amber-400">Project</a>
+                <a href="#projects" className="transition-colors duration-300 ease-in-out hover:text-amber-400">Project</a>
                 <a href="#contact" className="transition-colors duration-300 ease-in-out hover:text-amber-400">Contact</a>
 
             </div>
@@ -53,7 +53,7 @@ function Navbar() {
             >
                 <a href="#home" onClick={() => setIsOpen(false)}>Home</a>
                 <a href="#about" onClick={() => setIsOpen(false)}>About</a>
-                <a href="#project" onClick={() => setIsOpen(false)}>Project</a>
+                <a href="#projects" onClick={() => setIsOpen(false)}>Project</a>
                 <a href="#contact" onClick={() => setIsOpen(false)}>Contact</a>
             </div>
 
