@@ -73,7 +73,7 @@ function Hero() {
 
                         <div className="relative p-2 border-2 rounded-3xl border-blue-500/50 rotate-6 hover:rotate-0 transition-transform duration-500"></div>
 
-                        <img src="/profile.jpg" alt="Profile Picture [ Hem Khoyani ]" className="w-64 h-80 md:w-80 md:h-96 object-cover rounded-2xl mb-6 md:mb-0" />
+                        <img src="/img-anime-style-profile-picture.png" alt="Profile Picture [ Hem Khoyani ]" className="w-68 h-80 md:w-84 md:h-98 object-cover rounded-2xl mb-6 md:mb-0" />
 
                     </div>
 
